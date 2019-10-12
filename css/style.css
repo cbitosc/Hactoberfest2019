@@ -9995,7 +9995,9 @@ textarea.form-control {
 }
 #picFit{
   height: 353.13px;
+  object-fit: cover
 }
+
 
 @media (max-width: 767.98px) {
   #picFit {
