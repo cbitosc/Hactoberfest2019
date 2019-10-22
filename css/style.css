@@ -9999,8 +9999,14 @@ textarea.form-control {
 }
 
 
+
 @media (max-width: 767.98px) {
   #picFit {
       height: 431.25px;
+  }
+}
+@media (max-width: 767.98px) {
+  #setLogo2{
+      height: 75px;
   }
 }
