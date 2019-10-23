@@ -9980,6 +9980,16 @@ textarea.form-control {
     text-transform: uppercase;
 }
 
+.register-button1 {
+  background: linear-gradient(45deg, #ac2ac7, #f70eaf);
+  color: #fff;
+  border: 0;
+  padding: 10px 20px;
+  border-radius: 60px;
+  position: absolute;
+  right: 550px;
+  bottom: -750px;
+  text-transform: uppercase;}
 .goto-here {
   padding: 10em 0 0;
 }
@@ -9992,6 +10002,14 @@ textarea.form-control {
         bottom: -96px;
         z-index: 100;
     }
+    .register-button1 {
+      left: 75px;
+      right: 0;
+      margin: auto;
+      bottom: -510px;
+      padding: 5px 10px;
+      z-index: 100;
+  }
 }
 #picFit{
   height: 353.13px;
