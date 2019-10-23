@@ -90,6 +90,8 @@ address {
   font-style: normal;
   line-height: inherit; }
 
+
+
 ol,
 ul,
 dl {
@@ -687,6 +689,11 @@ pre {
 
 .offset-11 {
   margin-left: 91.66667%; }
+
+  .about_button{
+    display: flex;
+    flex-direction: column;
+  }
 
 @media (min-width: 576px) {
   .col-sm {
@@ -9986,9 +9993,7 @@ textarea.form-control {
   border: 0;
   padding: 10px 20px;
   border-radius: 60px;
-  position: absolute;
-  right: 550px;
-  bottom: -750px;
+  width: 300px;
   text-transform: uppercase;}
 .goto-here {
   padding: 10em 0 0;
@@ -10003,12 +10008,7 @@ textarea.form-control {
         z-index: 100;
     }
     .register-button1 {
-      left: 75px;
-      right: 0;
       margin: auto;
-      bottom: -510px;
-      padding: 5px 10px;
-      z-index: 100;
   }
 }
 #picFit{
