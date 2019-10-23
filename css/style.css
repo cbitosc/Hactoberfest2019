@@ -3121,7 +3121,7 @@ input[type="button"].btn-block {
   .custom-switch .custom-control-input:disabled:checked ~ .custom-control-label::before {
     background-color: rgba(0, 123, 255, 0.5); }
 #bg-image1{
-  background-image: url("../Poster4.jpg");
+  background-image: url("../Poster6.jpg");
 }
 @media (max-width: 991.98px) {
   #bg-image1{
